@@ -1,0 +1,15 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "PCゲーム Android移植速報",
+  "home_page_url": "https://github.com/tikitaking/g2-papers",
+  "feed_url": "https://raw.githubusercontent.com/tikitaking/g2-papers/main/android-games.json",
+  "language": "ja",
+  "items": [
+    {
+      "id": "kiosk-setup-android-games-2026-10-28",
+      "title": "PCゲームのAndroid移植速報をKioskに連携しました",
+      "date_published": "2026-10-28T15:20:00+09:00",
+      "content_text": "日本のGoogle Playで実際に配信開始され、現在プレイ可能になった有名PCゲームの正式Android版が見つかった時に、このフィードへ追加します。"
+    }
+  ]
+}
