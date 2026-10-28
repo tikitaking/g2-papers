@@ -1,0 +1,16 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Daily Plastic Surgery Papers",
+  "home_page_url": "https://github.com/tikitaking/g2-papers",
+  "feed_url": "https://raw.githubusercontent.com/tikitaking/g2-papers/main/feed.json",
+  "language": "ja",
+  "items": [
+    {
+      "id": "10.1093/asj/sjag231",
+      "url": "https://academic.oup.com/asj/advance-article-abstract/doi/10.1093/asj/sjag231/8915970",
+      "title": "顔面神経を完全露出するEndoscopic Facelift：300例",
+      "date_published": "2026-10-14T00:00:00+09:00",
+      "content_text": "【臨床的重要度 ★★★★☆】\n\n■ Key finding\n300例のendoscopic faceliftで、fronto-temporal branchを意図的に完全isolationしてMcGregor's patchをrelease。永久的な顔面神経障害は0/300。一方、一過性frontalis weaknessは300/300（100%）に発生。自発運動回復の中央値は14日で、最終的に全例で完全回復。\n\n■ Recovery\n14日までに62.3%、1か月で75.3%、3か月で87.0%、6か月で94.3%が回復。\n\n■ Clinical take\n顔面神経を避けながら盲目的に剥離するのではなく、fronto-temporal branchをあえて完全に露出・isolateし、その深部・周囲のretaining structureを確実にreleaseする考え方。永久麻痺0という結果は興味深いが、一過性frontalis paresis 100%という明確なtrade-offがある。\n\n■ Limitation\n単一術者・後ろ向きseries・比較群なし。通常のnerve-sparing endoscopic dissectionやdeep-plane faceliftより優れているとは判断できない。\n\nAesthetic Surgery Journal / Online published 2026-10-14 / DOI: 10.1093/asj/sjag231"
+    }
+  ]
+}
