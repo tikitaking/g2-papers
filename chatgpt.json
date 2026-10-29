@@ -6,6 +6,48 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#texting-your-dot-2026-10-28",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "dotとiMessage/RCSで直接やり取り可能に",
+      "date_published": "2026-10-28T00:00:00-07:00",
+      "content_text": "■ 何が変わった\n米国のProユーザー向けベータで、dotとiMessageまたはRCSから直接メッセージでき、dotから能動的な更新も届くようになりました。\n■ 使いどころ\nChatGPTアプリを開かず、進行中の仕事の確認や追加指示をスマホのメッセージから行えます。\n■ 注意点\n米国Pro限定の段階的ベータです。送受信には第三者のLinqが使われ、通常のSMS/データ料金がかかる場合があります。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pages-space-2026-10-28",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "ChatGPT Spaceに共同編集できるPagesが登場",
+      "date_published": "2026-10-28T00:00:00-07:00",
+      "content_text": "■ 何が変わった\n会話やテンプレートからPageを作り、文章・グラフ・インタラクティブ内容を編集し、複数人でコメントしながら共同作業できるようになりました。\n■ 使いどころ\n会話で作った企画書やレポートを、そのままチームで仕上げる用途に向きます。\n■ 注意点\nPagesはSpaceの提供範囲と共有設定に従います。Page共有だけで個人の非公開チャットやメモリが共有されることはありません。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin-2026-10-28",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "会議を自動で要約するMeetingsプラグイン",
+      "date_published": "2026-10-28T00:00:00-07:00",
+      "content_text": "■ 何が変わった\nMeetingsプラグインが会議内容を記録し、個人向け要約とアクション項目をChatGPT Spaceに保存できるようになりました。\n■ 使いどころ\n会議後に要約からフォローアップ文面を作る、プロジェクト計画を更新する、といった後工程までつなげられます。\n■ 注意点\n現在はmacOS版デスクトップのPro/Business向けベータで、Enterpriseは今後対応予定です。音声はノート作成後に削除されます。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-1-sol-2026-10-28",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "GPT-6.1 SolがChatGPT WorkとCodexへ展開",
+      "date_published": "2026-10-28T00:00:00-07:00",
+      "content_text": "■ 何が変わった\nGPT-6.1 SolがChatGPT WorkとCodexで展開開始。エージェント型コーディング、PC操作、専門業務がGPT-6 Solから強化されました。\n■ 使いどころ\n複数アプリをまたぐ業務、長めのコーディング作業、PC操作を含む一連の仕事を任せる用途に向きます。\n■ 注意点\nまずProから展開し、Plus/Business/Enterprise/Eduへ拡大予定です。通常のChatとは提供範囲が異なります。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sites-scheduling-2026-10-28",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "ChatGPT Sitesを公開後も編集・定期実行可能に",
+      "date_published": "2026-10-28T00:00:00-07:00",
+      "content_text": "■ 何が変わった\nPlus/ProのSite所有者・編集者が公開済みSiteをChatGPTで再編集でき、Automationsから定期クラウドスケジュールも作れるようになりました。\n■ 使いどころ\n定期レポートや更新型のWebページを、公開後もChatGPTで修正・再公開する運用に便利です。\n■ 注意点\nSitesが提供されている環境が対象で、編集操作はデスクトップブラウザ向けです。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#icloud-plugins-2026-10-27",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "iCloud Mail・CalendarをChatGPTに接続可能に",
+      "date_published": "2026-10-27T00:00:00-07:00",
+      "content_text": "■ 何が変わった\niCloud MailとCalendarのプラグインが追加され、メール検索・受信箱確認・予定確認・カレンダー更新をChatGPTから行えるようになりました。\n■ 使いどころ\nApple中心の環境でも、メールと予定をまとめて確認し、日程調整やタスク整理につなげられます。\n■ 注意点\nMailとCalendarは別々に接続し、Appleのアプリ用パスワードを接続画面で使います。通常のAppleパスワードをチャットへ貼り付けないでください。"
+    },
+    {
       "id": "kiosk-setup-2026-10-28",
       "title": "ChatGPT新機能速報をKioskに連携しました",
       "date_published": "2026-10-28T15:18:00+09:00",
