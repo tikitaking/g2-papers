@@ -6,6 +6,13 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "title": "Pro・Business PremiumのWork/Codex利用枠を拡大",
+      "date_published": "2026-10-29T00:00:00-07:00",
+      "content_text": "■ 何が変わった\nPro 100/500のWork・Codex利用枠が従来の2倍に拡大。Pro 200も利用枠削減が撤回され、低い枠だった契約者は2倍になりました。Business Premiumも利用枠が拡大されています。\n■ 使いどころ\nWorkで長い業務フローを回す人や、Codexで開発作業を多く行う人が追加クレジット購入前に使える余裕が増えます。\n■ 注意点\n対象はProおよびBusiness Premiumの利用枠変更で、Free/Go/Plusなど全プラン共通の増量ではありません。"
+    },
+    {
       "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#texting-your-dot-2026-10-28",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
       "title": "dotとiMessage/RCSで直接やり取り可能に",
