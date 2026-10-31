@@ -6,6 +6,20 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://help.openai.com/en/articles/9624314-model-release-notes#gpt-6-rosalind-research-2026-10-30",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "title": "GPT-6 Rosalind Researchを生命科学向けに限定提供",
+      "date_published": "2026-10-30T00:00:00-07:00",
+      "content_text": "■ 何が変わった\nGPT-6 Rosalind Researchが、承認済みの生命科学研究組織向けにChatGPT WorkとCodexで限定展開されました。\n■ 使いどころ\n生物学、創薬、トランスレーショナル医学などの多段階研究を、GPT-6の推論能力で支援する用途に向きます。\n■ 注意点\nResearch承認を受けた組織・ユーザー限定で、通常のChatタブでは利用できません。Enterpriseでは2週間のAdmin Previewから始まり、既定ではオフです。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/9624314-model-release-notes#gpt-6-chat-update-2026-10-29",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "title": "無料版などのGPT-6を簡潔・非迎合的な応答へ調整",
+      "date_published": "2026-10-29T00:00:00-07:00",
+      "content_text": "■ 何が変わった\nChatGPTのGPT-6が、より簡潔に答え、過度に持ち上げる表現を減らすよう調整されました。Free・Go・未ログイン利用者に適用されます。\n■ 使いどころ\n日常の質問や調べ物で、前置きや過剰な同意が少ない、要点中心の回答を得やすくなります。\n■ 注意点\nPlus/ProのメインGPT-6は変更されません。Plus/ProではGPT-6のメッセージ上限到達後に切り替わるモデルだけが対象です。"
+    },
+    {
       "id": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
       "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
       "title": "Pro・Business PremiumのWork/Codex利用枠を拡大",
