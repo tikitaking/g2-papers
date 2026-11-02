@@ -6,6 +6,13 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "title": "12月からChatGPTとCodexの利用枠を共通化",
+      "date_published": "2026-11-01T00:00:00-07:00",
+      "content_text": "■ 何が変わった\n12月からPlus・Pro・Businessでは、ChatGPTとCodexの利用枠が共通化されます。利用量はトークン単位で計測され、残量とリセット時刻は設定→Usageで確認できます。\n■ 使いどころ\nChatとCodexを併用する場合、共通の残量を見ながらモデルやタスクを使い分ける運用がしやすくなります。\n■ 注意点\nInstant chatは共通利用枠を消費しません。高度なモデルや複雑なタスクほど消費が増え、上限到達後はリセット待ち・プラン変更・対象機能向けクレジット購入が選択肢になります。"
+    },
+    {
       "id": "https://help.openai.com/en/articles/9624314-model-release-notes#gpt-6-rosalind-research-2026-10-30",
       "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
       "title": "GPT-6 Rosalind Researchを生命科学向けに限定提供",
