@@ -6,6 +6,13 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://openai.com/index/introducing-images-2-6/",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "title": "Images 2.6登場：画像生成が高速化、GIFにも対応",
+      "date_published": "2026-11-04T00:00:00-08:00",
+      "content_text": "■ 何が変わった\nChatGPTの画像生成がImages 2.6に更新。生成速度が従来比50%向上し、編集時の人物・商品の一貫性が改善。GIFアニメーションも作成可能になりました。\n■ 使いどころ\n商品画像やポスターの試作、キャラクターの動くGIF、SNS向けループ画像の作成に便利です。\n■ 注意点\n全プランで世界的に提供。生成結果の文字・細部は公開前に確認してください。"
+    },
+    {
       "id": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
       "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
       "title": "12月からChatGPTとCodexの利用枠を共通化",
