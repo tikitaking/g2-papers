@@ -6,6 +6,20 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
+      "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
+      "title": "音声の旧モード、12月11日に終了",
+      "date_published": "2026-11-10T00:00:00Z",
+      "content_text": "■ 何が変わった\n12月11日にAdvanced・Standard音声を終了し、GPT-Liveへ移行。\n■ 使いどころ\n自然な割り込みやテンポのよい音声会話にGPT-Liveを活用。\n■ 注意点\n旧モードは移行日まで利用可能。ライブ映像・画面共有は当面Advancedで継続。"
+    },
+    {
+      "id": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "title": "ChatGPTに企業向けBusiness Hub登場",
+      "date_published": "2026-11-10T00:00:00Z",
+      "content_text": "■ 何が変わった\n企業が自社情報・商品フィードを管理し、言及数やサイトクリックを確認できるBusiness Hubがベータ公開。\n■ 使いどころ\n店舗情報の更新やChatGPT経由の発見状況の把握に。\n■ 注意点\n本人確認が必要。Business Agentの作成は米国の対象業種に限定。"
+    },
+    {
       "id": "https://openai.com/index/introducing-images-2-6/",
       "url": "https://openai.com/index/introducing-images-2-6/",
       "title": "Images 2.6登場：画像生成が高速化、GIFにも対応",
