@@ -6,6 +6,13 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+      "title": "医療向けChatGPT、臨床検索と連携機能を強化",
+      "date_published": "2026-11-16T00:00:00-08:00",
+      "content_text": "■ 何が変わった\n医療向けChatGPTの文献検索・引用を改善。20以上の医療プラグインや、医療ソフトを操作するAIエージェントも発表。\n■ 使いどころ\n診療根拠の確認、紹介状や依頼内容の下書き、複数システム間の事務作業に活用。\n■ 注意点\n主に医療機関・米国の認証済み臨床家向け。接続や操作には権限設定と人の確認が必要。"
+    },
+    {
       "id": "https://openai.com/index/introducing-chatgpt-wallet/",
       "url": "https://openai.com/index/introducing-chatgpt-wallet/",
       "title": "ChatGPT Wallet発表、AIが購入を安全に決済",
