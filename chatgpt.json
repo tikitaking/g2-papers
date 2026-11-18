@@ -6,6 +6,20 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "GPT-6.2 Astra・Sol、WorkとCodexに登場",
+      "date_published": "2026-11-17T00:00:00-08:00",
+      "content_text": "■ 何が変わった\nGPT-6.2 AstraとSolが登場。Astraは資料・スライド作成や複雑な仕事、Solは日常業務と複数手順の処理を改善。\n■ 使いどころ\nWorkで資料の雛形に沿ったスライド作成、Solで調査・業務処理を効率化。\n■ 注意点\nPlus/Pro/Enterprise/EduのWork・Codex向け。通常のChatには追加されず、組織設定で利用可否が変わる。"
+    },
+    {
+      "id": "https://openai.com/index/introducing-chatgpt-for-sales/",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales/",
+      "title": "ChatGPT for Sales登場、営業支援を一体化",
+      "date_published": "2026-11-17T00:00:00-08:00",
+      "content_text": "■ 何が変わった\n営業向けSalesプラグインと30以上の新規・拡張連携が登場。顧客情報や商談の流れをChatGPTで扱える。\n■ 使いどころ\n商談前の顧客調査、提案準備、会議後のフォロー文案や案件リスク確認に。\n■ 注意点\nプラン・地域・組織設定で利用範囲が異なる。Business/Enterpriseでは管理者の有効化や接続権限の確認が必要。"
+    },
+    {
       "id": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
       "title": "医療向けChatGPT、臨床検索と連携機能を強化",
