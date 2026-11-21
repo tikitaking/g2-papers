@@ -6,6 +6,20 @@
   "language": "ja",
   "items": [
     {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#november-20-2026-chatgpt-space-is-rolling-out-to-plus",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "ChatGPT Space、Plusにも提供開始",
+      "date_published": "2026-11-20T00:00:00-08:00",
+      "content_text": "■ 何が変わった\nChatGPT Spaceが18歳以上のPlusユーザーにも世界展開。共同編集できるページやスライドを作れ、接続アプリの情報で自動更新も可能。\n■ 使いどころ\n進捗が自動更新される計画表や共同編集する学習資料を作る。\n■ 注意点\n段階的提供。共有閲覧にもSpace対応の有料アカウントと権限が必要。公開リンクは非対応。"
+    },
+    {
+      "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#november-19-2026-new-mobile-experience-for-chatgpt",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "title": "ChatGPTアプリ、機能を固定できる新画面",
+      "date_published": "2026-11-19T00:00:00-08:00",
+      "content_text": "■ 何が変わった\nモバイル版に新デザイン。dots専用タブを設け、Codex・Projects・Imagesなどをタブバーに固定可能。\n■ 使いどころ\nよく使う機能を固定してワンタップで開く。\n■ 注意点\nまずdots提供地域の18歳以上のPro、一部Plusで試験展開。欧州経済領域・英国・スイス・韓国は対象外。"
+    },
+    {
       "id": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#november-19-2026-health-on-android-desktop-dots-and-sites",
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
       "title": "ChatGPT Health、Android・PC・dotsに拡大",
